@@ -61,3 +61,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/Prueba de concepto HG/nbproject/private/
+/Prueba de concepto HG/build/
+/Prueba de concepto HG/dist/
